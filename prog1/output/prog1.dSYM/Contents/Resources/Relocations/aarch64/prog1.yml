@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/leisha/ipl/ipl2026/prog1/output/prog1'
+relocations:     []
+...
